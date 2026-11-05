@@ -30,7 +30,7 @@ The application allows users to capture photos using the device's camera and vie
 ![Home Screen](Screenshot/Screenshot_20261105_103254.png)
 ### Captured Image
 
-![Captured Image](Screenshots/Screenshot_20261105_103056.png)
+![Captured Image](Screenshot/Screenshot_20261105_103056.png)
 
 ### Share Image
 
